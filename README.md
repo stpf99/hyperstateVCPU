@@ -136,6 +136,6 @@ Prosimy o zgłaszanie błędów i sugestii w sekcji Issues.
 
 ## Kontakt
 
-Autor: [Twoje imię lub pseudonim]  
-GitHub: [Twoj-username]  
-Email: [Twój email, jeśli chcesz podać]
+Autor: stpf99
+GitHub: stpf99 
+Email: stpf99
